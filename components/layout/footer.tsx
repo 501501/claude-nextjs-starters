@@ -17,30 +17,30 @@ const defaultLinkGroups: FooterLinkGroup[] = [
     links: [
       { label: '기능', href: '#features' },
       { label: '가격', href: '#pricing' },
-      { label: '보안', href: '/security' },
+      { label: '보안', href: '#' },
     ],
   },
   {
     title: '회사',
     links: [
-      { label: '소개', href: '/about' },
-      { label: '블로그', href: '/blog' },
-      { label: '채용', href: '/careers' },
+      { label: '소개', href: '#' },
+      { label: '블로그', href: '#' },
+      { label: '채용', href: '#' },
     ],
   },
   {
     title: '리소스',
     links: [
-      { label: '문서', href: '/docs' },
-      { label: 'API', href: '/api' },
-      { label: '상태', href: '/status' },
+      { label: '문서', href: '#' },
+      { label: 'API', href: '#' },
+      { label: '상태', href: '#' },
     ],
   },
   {
     title: '법률',
     links: [
-      { label: '개인정보처리방침', href: '/privacy' },
-      { label: '이용약관', href: '/terms' },
+      { label: '개인정보처리방침', href: '#' },
+      { label: '이용약관', href: '#' },
     ],
   },
 ]

@@ -35,9 +35,7 @@ interface NavbarProps {
 
 const defaultItems: NavItem[] = [
   { label: '홈', href: '/' },
-  { label: '기능', href: '#features' },
-  { label: '가격', href: '#pricing' },
-  { label: '문서', href: '/docs' },
+  { label: '문서', href: '#' },
 ]
 
 export function Navbar({
